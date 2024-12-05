@@ -1,0 +1,7 @@
+Product Name        Weight Type    Amount        Total Price
+============================================================
+Bookie              piece          10.0                200.0
+Copy                piece          25.0                300.0
+Cust                piece          20.0                400.0
+============================================================
+Total Price: 900.0
