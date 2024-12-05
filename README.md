@@ -2,7 +2,6 @@
 **Retail Management App**
 
 **A Comprehensive Solution for Retail Businesses**
-![Logo](https://github.com/AbhishekKumar0313/KhataBook/blob/main/icon.ico)
 <center>
   <img src="https://github.com/AbhishekKumar0313/KhataBook/blob/main/icon.ico" alt="Logo">
 </center>
