@@ -1,13 +1,11 @@
 
-
-I apologize for the previous response. Here's a revised version of the README that's more beautiful, descriptive, and includes links to images:
-
-
 **Retail Management App**
 
 **A Comprehensive Solution for Retail Businesses**
-
-[![Logo](https://github.com/AbhishekKumar0313/KhataBook/blob/main/icon.ico)
+![Logo](https://github.com/AbhishekKumar0313/KhataBook/blob/main/icon.ico)
+<center>
+  <img src="https://github.com/AbhishekKumar0313/KhataBook/blob/main/icon.ico" alt="Logo">
+</center>
 
 **Overview**
 
