@@ -40,7 +40,7 @@ To run **Khata App** on your local machine, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/khata-app.git
+   git clone https://github.com/AbhishekKumar0313/KhataBook.git
    ```
 
 2. **Navigate to the project folder:**
@@ -62,16 +62,22 @@ To run **Khata App** on your local machine, follow these steps:
    After installing the dependencies, you can run the app by executing the following command:
 
    ```bash
-   python main.py
+   python app.py
    ```
 
 ---
 
 ## **Screenshots**
 
-![Login Page](path/to/login-page-screenshot.png)
+![Login Page](https://github.com/AbhishekKumar0313/KhataBook/blob/main/Scrrenshots/Screenshot%202024-12-05%20165442.png)
 
-![Home Page](path/to/home-page-screenshot.png)
+![Registration Page](https://github.com/AbhishekKumar0313/KhataBook/blob/main/Scrrenshots/Screenshot%202024-12-05%20165454.png)
+![Reset Page](https://github.com/AbhishekKumar0313/KhataBook/blob/main/Scrrenshots/Screenshot%202024-12-05%20170024.png)
+![Home Page](https://github.com/AbhishekKumar0313/KhataBook/blob/main/Scrrenshots/Screenshot%202024-12-05%20165519.png)
+![Billing Page](https://github.com/AbhishekKumar0313/KhataBook/blob/main/Scrrenshots/Screenshot%202024-12-05%20165533.png)
+![Inventory Page](https://github.com/AbhishekKumar0313/KhataBook/blob/main/Scrrenshots/Screenshot%202024-12-05%20165541.png)
+![Customer Page](https://github.com/AbhishekKumar0313/KhataBook/blob/main/Scrrenshots/Screenshot%202024-12-05%20165547.png)
+
 
 ---
 
@@ -113,9 +119,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any inquiries or support, feel free to contact:
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- GitHub: [github.com/your-username](https://github.com/your-username)
-
----
-
-This README is crafted to make your project stand out. You can customize it further with specific installation instructions or additional screenshots!
+- Email: [your-email@example.com](mailto:abhishekkumarofficial1303@gmail.com)
+- GitHub: [github.com/your-username](https://github.com/AbhishekKumar0313)
