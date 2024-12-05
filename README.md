@@ -7,7 +7,7 @@ I apologize for the previous response. Here's a revised version of the README th
 
 **A Comprehensive Solution for Retail Businesses**
 
-[![Logo](https://i.imgur.com/your-logo-image.png)]([https://example.com](https://github.com/AbhishekKumar0313/KhataBook/blob/main/icon.ico))
+[![Logo](https://github.com/AbhishekKumar0313/KhataBook/blob/main/icon.ico)
 
 **Overview**
 
